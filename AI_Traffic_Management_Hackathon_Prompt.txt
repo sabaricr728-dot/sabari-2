@@ -1,0 +1,29 @@
+AI Traffic Management System — College Hackathon Project Prompt
+
+Create a complete, working AI Traffic Management System for a college hackathon. Use Python, Flask, OpenCV, YOLO, HTML, CSS, JavaScript, and Chart.js.
+
+Build a modern, responsive dashboard that:
+1. Detects and counts cars, buses, trucks, and motorcycles from uploaded traffic videos.
+2. Classifies traffic density as low, medium, or high.
+3. Displays vehicle counts and congestion analytics.
+4. Recommends adaptive traffic signal timings based on vehicle density.
+5. Includes video upload, an intersection dashboard, charts, and congestion alerts.
+6. Provides a demo mode with sample data when AI model weights or a camera are unavailable.
+7. Clearly labels simulated data and distinguishes it from actual video-derived results.
+8. Uses a professional dark theme with red, yellow, and green traffic-light colors.
+9. Includes the complete source code, project folder structure, requirements.txt, README, installation instructions, and steps to run locally.
+10. Is practical to demonstrate within 24 hours.
+
+Safety and scope:
+- Do not connect to or control real-world traffic signals.
+- Use simulated data only when clearly labeled.
+- Explain any model-weight, dependency, or setup requirements.
+- Ensure implemented features work and explain how to test and demonstrate the project.
+
+Deliverables:
+- Complete source code
+- Project folder structure
+- requirements.txt
+- README.md
+- Local installation and run instructions
+- A short hackathon demo workflow
